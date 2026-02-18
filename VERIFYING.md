@@ -40,8 +40,16 @@ IwpuTBEfGhIO
 
 3. **Verify file checksums** — from the template root:
 
+   macOS:
+
    ```bash
    shasum -a 256 -c .keystone/checksums.txt
+   ```
+
+   Linux:
+
+   ```bash
+   sha256sum -c .keystone/checksums.txt
    ```
 
    Every line should report `OK`.
