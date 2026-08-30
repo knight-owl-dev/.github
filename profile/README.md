@@ -29,6 +29,7 @@ expertise required.
 | ---------- | ----------- |
 | [keystone-cli](https://github.com/knight-owl-dev/keystone-cli) | Command-line interface for Keystone |
 | [keystone-template-core](https://github.com/knight-owl-dev/keystone-template-core) | Full template with local Docker image build |
+| [keystone-template-core-diagrams](https://github.com/knight-owl-dev/keystone-template-core-diagrams) | Lightweight template using prebuilt Docker images with mermaid diagrams hook |
 | [keystone-template-core-slim](https://github.com/knight-owl-dev/keystone-template-core-slim) | Lightweight template using a prebuilt Docker image |
 | [keystone-hello-world](https://github.com/knight-owl-dev/keystone-hello-world) | Sample project using the Keystone template |
 
