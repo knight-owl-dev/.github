@@ -28,17 +28,18 @@ expertise required.
 | Repository | Description |
 | ---------- | ----------- |
 | [keystone-cli](https://github.com/knight-owl-dev/keystone-cli) | Command-line interface for Keystone |
+| [keystone-hello-world](https://github.com/knight-owl-dev/keystone-hello-world) | Sample project using the Keystone template |
+| [keystone-hook-diagrams](https://github.com/knight-owl-dev/keystone-hook-diagrams) | Mermaid diagram rendering hook, wired by the diagrams template |
 | [keystone-template-core](https://github.com/knight-owl-dev/keystone-template-core) | Full template with local Docker image build |
 | [keystone-template-core-diagrams](https://github.com/knight-owl-dev/keystone-template-core-diagrams) | Lightweight template using prebuilt Docker images with mermaid diagrams hook |
 | [keystone-template-core-slim](https://github.com/knight-owl-dev/keystone-template-core-slim) | Lightweight template using a prebuilt Docker image |
-| [keystone-hello-world](https://github.com/knight-owl-dev/keystone-hello-world) | Sample project using the Keystone template |
 
 ### Infrastructure
 
 | Repository | Description |
 | ---------- | ----------- |
-| [homebrew-tap](https://github.com/knight-owl-dev/homebrew-tap) | Homebrew tap for Knight Owl tools |
 | [apt](https://github.com/knight-owl-dev/apt) | Apt repository for Knight Owl packages |
 | [devops](https://github.com/knight-owl-dev/devops) | Shared CI images and infrastructure |
+| [homebrew-tap](https://github.com/knight-owl-dev/homebrew-tap) | Homebrew tap for Knight Owl tools |
 
 Learn more at [knight-owl.dev](https://knight-owl.dev).
