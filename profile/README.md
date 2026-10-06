@@ -34,6 +34,16 @@ expertise required.
 | [keystone-template-core-diagrams](https://github.com/knight-owl-dev/keystone-template-core-diagrams) | Lightweight template using prebuilt Docker images with mermaid diagrams hook |
 | [keystone-template-core-slim](https://github.com/knight-owl-dev/keystone-template-core-slim) | Lightweight template using a prebuilt Docker image |
 
+### Pandoc tooling
+
+Format and lint Pandoc Markdown, on a port of Pandoc's own Markdown
+reader. Published to npm under
+[@knight-owl-llc](https://www.npmjs.com/org/knight-owl-llc).
+
+| Repository | Description |
+| ---------- | ----------- |
+| [prettier-plugin-pandoc](https://github.com/knight-owl-dev/prettier-plugin-pandoc) | Prettier plugin, linter, and parser for Pandoc Markdown |
+
 ### Infrastructure
 
 | Repository | Description |
